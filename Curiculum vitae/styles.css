@@ -1,28 +1,33 @@
 
 h3{
     font-size: medium;
-    font-style: normal;
-    margin: 35mm;
-    font-family: serif;
-    font-weight: normal;
+    font-style:normal;
+    margin:35mm;
+    font-family:serif;
+    font-weight:normal;
 }
-
 h1{
-    font-size: xx-large;
-    font-style: normal;
-    margin-top: 50mm;
+    font-size:large
+    font-style:normal;
     font-family: serif;
+    margin: 100mm;
     font-weight: normal;
 }   
-
 h2{
-    -ms-text-size-adjust: auto;
-    font-style: normal;
+    font-style:normal;
     margin: 35mm;
-    font-family: serif;
+    font-family:serif;
     font-weight: normal;
 }
-
 a{
     color: black;
 }
+p{
+    margin-top: 5mm;
+    margin-bottom: 5mm;
+    
+}
+
+
+
+    
