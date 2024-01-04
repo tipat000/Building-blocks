@@ -3,8 +3,28 @@ h1{
     color: white;
     
 }
-html{
-    background-color: black;
+.division{
+    
     align-items: center;
     text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
+
+.image{
+    width: 100%
+}
+
+.body{
+    
+  background-color: black;
+}
+img{
+    background-color: white;
+    border: 5px white solid 
+    ;
+}
+p{
+    text-transform: uppercase;
 }
