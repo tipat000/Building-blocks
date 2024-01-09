@@ -1,4 +1,12 @@
-.h1, h2{
- color: purple;
+
+
+h1, h2{
+ color:blueviolet;
 }
     /* Write your code here: */
+    div > p{
+        color: firebrick;
+    }
+.box .list{
+    color: blue;
+}
